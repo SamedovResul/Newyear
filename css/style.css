@@ -6,7 +6,7 @@ body {
 
 .one {
   width: 100%;
-  display: flex;
+  display: none;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -322,6 +322,6 @@ body{
   z-index: 100;
   background-image: url('../img/owl.png');
   background-position: center;
-  background-size: 40%;
+  background-size: 100%;
   background-repeat: no-repeat;
 }
